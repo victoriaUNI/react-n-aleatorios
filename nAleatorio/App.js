@@ -27,7 +27,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Image
-        source={require('./assets/logo.png')} // Caminho da imagem
+        source={require('./assets/logo.jpg')} // Caminho da imagem
         style={styles.image}
       />
       <TextInput
